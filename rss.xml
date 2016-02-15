@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Maximilian Benjamin]]></title>
+        <description><![CDATA[Maximilian Benjamin]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 22:03:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Post. Testing. 1. 2. 3... Is this on?</p>]]></description>
+            <link>undefinedb2d71ad7-89c3-4762-a461-1f7d8970080a/index.html</link>
+            <guid isPermaLink="false">b2d71ad7-89c3-4762-a461-1f7d8970080a</guid>
+            <pubDate>Mon, 15 Feb 2016 22:03:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
